@@ -20,6 +20,3 @@ OnStepNinjaかんたん設定v1_1.zip  2024,5/22
 　”上位システム構成を全無効にする＞＞・・”
 
 
-***参考動画***　OnStepNinjaが動いています。
-https://www.youtube.com/watch?v=3DyAAtpnkZY&t=5s    ５相モータ版（ミカゲ310-400納入済）
-https://www.youtube.com/watch?v=LP4tCoL-0uE&t=31s   経緯台
